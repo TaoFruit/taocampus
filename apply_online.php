@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="college, campus, university, courses, school, educational">
-    <meta name="description" content="Tao Learning">
+    <meta name="description" content="Tao Campus">
     <meta name="author" content="Tao Fuit">
-    <title>Tao Learning</title>
+    <title>Tao Campus</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favico.png" type="image/x-icon">
